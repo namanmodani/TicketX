@@ -1,5 +1,5 @@
 # TicketX
 
-TicketX is an e-commerce microservice application for ticket sale. 
+TicketX is an e-commerce application using microservices for ticket sale. 
 
-Tech/Frameworks: Node.js (Express), TypeScript, Kubernetes, Docker, NATS Streaming, MongoDB
+Frameworks: Node.js (Express), TypeScript, Kubernetes, Docker, NATS Streaming, MongoDB
